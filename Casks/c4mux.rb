@@ -1,6 +1,6 @@
 cask "c4mux" do
-  version "0.26.5"
-  sha256 "03509e259ea683752f7c5ad9892bfd2183974d13219417d8c002800d5a028718"
+  version "0.26.6"
+  sha256 "95013836453f13996d8f52d70bfbe5025c6acc2f762416584f9a82c6193da907"
 
   url "https://github.com/c4iov1/c4mux-releases/releases/download/v#{version}/C4Mux.dmg"
   name "C4Mux"
