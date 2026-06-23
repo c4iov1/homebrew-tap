@@ -1,11 +1,11 @@
 class Kai < Formula
   desc "Terminal workspace manager for AI coding agents"
   homepage "https://github.com/c4iov1/kai"
-  version "0.1.3"
+  version "0.1.4"
   license "AGPL-3.0-or-later"
 
-  url "https://github.com/c4iov1/kai-releases/releases/download/v0.1.3/kai-macos-aarch64.tar.gz"
-  sha256 "384209f087acb4a817657484b40aac9722c853dab9592a5cf3f699ac4aadd545"
+  url "https://github.com/c4iov1/kai-releases/releases/download/v0.1.4/kai-macos-aarch64.tar.gz"
+  sha256 "a375ca5798af86ac85e1b4469b0699804a420d8b98c699a0b58da022107d769e"
 
   depends_on arch: :arm64
 
